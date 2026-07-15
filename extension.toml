@@ -1,0 +1,7 @@
+id = "glassy_nord_dark"
+name = "Dark Glassy Nord theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Alexey Kudryashov"]
+description = "A transparent Dark Nord theme for Zed text editor"
+repository = "https://github.com/zenrot/Dark-Glassy-Nord.git"
