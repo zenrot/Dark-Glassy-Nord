@@ -35,12 +35,12 @@
         "text": "#ECEFF4",
         "text.muted": "#D8DEE9B3",
         "text.placeholder": "#81A1C180",
-        "text.disabled": "#4C566A",
+        "text.disabled": "#AAB6C8",
         "text.accent": "#88C0D0",
 
         "icon": "#D8DEE9",
         "icon.muted": "#81A1C1",
-        "icon.disabled": "#4C566A",
+        "icon.disabled": "#AAB6C8",
         "icon.placeholder": "#81A1C180",
         "icon.accent": "#88C0D0",
 
